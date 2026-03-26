@@ -1,6 +1,6 @@
 ## Shaurya
 
-> **Security Research | Automation | Web Exploitation**
+> **Research | Automate | Exploit**
 
 ### Developing Tools that make Impact.
 <p align="left">
