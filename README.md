@@ -10,4 +10,4 @@
   </a>
 </p>
 
-Want to donate for my work? [Become a sponsor](https://github.com/sponsors/forshaur)
+Want to donate? [Become a sponsor](https://github.com/sponsors/forshaur)
